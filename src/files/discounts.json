@@ -1,0 +1,16 @@
+{
+    "two_for_one": {
+        "items": [
+            "VOUCHER"
+        ],
+        "amount_items": 2,
+        "new_price": 0.00
+    },
+    "bulk": {
+        "items": [
+            "TSHIRT"
+        ],
+        "amount_items": 3,
+        "new_price": 19.00
+    }
+}
